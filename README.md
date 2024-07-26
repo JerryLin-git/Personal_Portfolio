@@ -1,11 +1,11 @@
 # Portfolio of Jerry Lin
 
-Welcome to my portfolio! Here you'll find a selection of my projects showcasing my skills and experiences in GIS, Data Analysis.
+Welcome to my portfolio! Here you'll find a selection of my projects showcasing my skills and experiences in GIS, Data Analysis, and LaTeX.
 
 ## Table of Contents
 
 - [About Me](#about-me)
-- [Projects](#projects)
+- [GIS Projects](#GIS Projects)
   - [Project 1: Project Name](#project-1-project-name)
   - [Project 2: Project Name](#project-2-project-name)
   - [Project 3: Project Name](#project-3-project-name)
@@ -16,7 +16,7 @@ Welcome to my portfolio! Here you'll find a selection of my projects showcasing 
 
 I'm [Your Name], a [your title, e.g., software developer, data scientist, graphic designer] with a passion for [your interests or specialties, e.g., web development, machine learning, creative design]. With [number] years of experience, I have developed a range of skills and completed several projects that I am proud to showcase here.
 
-## Projects
+## GIS Projects
 
 ### Project 1: Project Name
 
