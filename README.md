@@ -5,7 +5,7 @@ Welcome to my portfolio! Here you'll find a selection of my projects showcasing 
 ## Table of Contents
 
 - [About Me](#about-me)
-- [GIS Projects](#GIS Projects)
+- [GIS Projects](#gis-projects)
   - [Project 1: Project Name](#project-1-project-name)
   - [Project 2: Project Name](#project-2-project-name)
   - [Project 3: Project Name](#project-3-project-name)
